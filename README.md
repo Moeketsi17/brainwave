@@ -53,8 +53,6 @@ Brainwave - Modern UI/UX landing page, developed using React.js and Tailwind CSS
 
 and many more, including code architecture and reusability
 
-## <a name="quick-start">🤸 Quick Start</a>
 
-Follow these steps to set up the project locally on your machine.
 
 
